@@ -11,7 +11,7 @@ import os
 
 
 
-token = '567750227:AAFstiaYUIchEHalnV4ZWwGdxAIcKwbx_rc'
+token = '567750227:'
 
 #setup_db()
 logging.basicConfig(filename='bot.log', format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
